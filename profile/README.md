@@ -1,12 +1,21 @@
-## Hi there 👋
+Welcome to **htrnguyen labs**.
 
-<!--
+This organization is the central home for my personal software projects, developer tools, AI applications, and open-source experiments. It serves as a place to build, maintain, and share projects ranging from production-ready applications to research prototypes.
 
-**Here are some ideas to get you started:**
+## What you'll find here
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🤖 AI applications and services
+- 🛠 Developer tools and utilities
+- 📚 Learning and research projects
+- 🌐 Web applications and APIs
+- 📦 Shared libraries and SDKs
+- 🧪 Experimental ideas and prototypes
+- 📖 Documentation and technical specifications
+
+## Philosophy
+
+Build practical software, write clean code, and continuously explore new technologies.
+
+---
+
+**Maintained by htrnguyen**
